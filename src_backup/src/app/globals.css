@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  background: #020617;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #020617;
+}
