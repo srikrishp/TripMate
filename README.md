@@ -2,7 +2,7 @@
 
 TripMate is a full-stack travel planning platform designed to help users plan, organize, track, and manage their trips from a single application.
 
-It combines itinerary management, interactive maps, weather information, expense tracking, analytics, notifications, collaboration, and AI-powered travel assistance into one unified travel experience.
+It combines itinerary management, interactive maps, weather information, expense tracking, analytics, notifications, collaboration, and AI-powered travel assistance into one unified travel experience..
 
 ---
 
